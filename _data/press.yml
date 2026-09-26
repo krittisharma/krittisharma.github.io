@@ -1,3 +1,10 @@
+- outlet: "Caltech"
+  date: "September 2026"
+  title: "Fast Radio Bursts Poised to Help with Biggest Cosmic Mysteries"
+  url: "https://www.caltech.edu/about/news/fast-radio-bursts-poised-to-help-with-biggest-cosmic-mysteries"
+  summary: >
+    Reports on our Nature Astronomy study using FRBs to measure the small-scale suppression of matter power spectrum due to baryonic feedback.
+
 - outlet: "AAS Nova"
   date: "August 2026"
   title: "Diving into the Darkest Corners of the Universe with Fast Radio Bursts"
