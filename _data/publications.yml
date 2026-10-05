@@ -7,18 +7,11 @@
 
 - role: first
   year: 2026
-  title: "Baryons in the Darkest Sites of the Universe"
-  authors: "K. Sharma, V. Ravi, D. Anbajagane, et al."
-  venue: "ApJL, 1006, L3"
-  arxiv: "2605.01994"
-  journal_url: "https://iopscience.iop.org/article/10.3847/2041-8213/ae81ac"
-
-- role: first
-  year: 2026
-  title: "Backlighting the Cosmic Web with Fast Radio Bursts: An Anthology of Dispersion Measure Cross-Correlations with Large-Scale Structure and Baryon Tracers"
+  title: "Backlighting the Universe with Fast Radio Bursts: An Anthology of Dispersion Measure Cross Correlations with Tracers of Large-scale Structure and Baryonic Matter"
   authors: "K. Sharma, E. Krause, V. Ravi, et al."
-  venue: "Accepted, ApJ"
+  venue: "ApJ, 1010, 47"
   arxiv: "2604.22105"
+  journal_url: "https://iopscience.iop.org/article/10.3847/1538-4357/ae9a79"
 
 - role: first
   year: 2026
@@ -27,6 +20,14 @@
   venue: "Nature Astronomy, 10, 2397-3366"
   arxiv: "2604.17162"
   journal_url: "https://www.nature.com/articles/s41550-026-02957-9"
+
+- role: first
+  year: 2026
+  title: "Baryons in the Darkest Sites of the Universe"
+  authors: "K. Sharma, V. Ravi, D. Anbajagane, et al."
+  venue: "ApJL, 1006, L3"
+  arxiv: "2605.01994"
+  journal_url: "https://iopscience.iop.org/article/10.3847/2041-8213/ae81ac"
 
 - role: first
   year: 2026
@@ -103,10 +104,11 @@
 
 - role: coauthor
   year: 2026
-  title: "Great Walls of Cosmic Baryons in the Northern Sky"
+  title: "A Search for Great Walls of Cosmic Baryons in the Northern Sky"
   authors: "V. Ravi, K. Sharma, and L. Connor"
-  venue: "Accepted, ApJL"
+  venue: "ApJL, 1008, L57"
   arxiv: "2604.05093"
+  journal_url: "https://iopscience.iop.org/article/10.3847/2041-8213/ae96b0"
 
 - role: coauthor
   year: 2025
@@ -125,6 +127,27 @@
   journal_url: "https://iopscience.iop.org/article/10.3847/1538-4357/ad3736"
 
 # ---- supporting contributions ----
+
+- role: supporting
+  year: 2026
+  title: "Tracing the Host-Galaxy Environments of FRBs with a New Sample of Localized Sources Detected with the DSA-110"
+  authors: "F. Verdi, V. Ravi, et al. (incl. K. Sharma)"
+  venue: "Under review in ApJ"
+  arxiv: "2609.30616"
+
+- role: supporting
+  year: 2026
+  title: "A multi-telescope fit to the FRB population, allowing for FRB repetition"
+  authors: "J. Hoffman, C. James, et al. (incl. K. Sharma)"
+  venue: "Under review in PASA"
+  arxiv: "2609.27282"
+
+- role: supporting
+  year: 2026
+  title: "The DSA/Chronoscope fast radio burst survey: forecasts and science overview"
+  authors: "L. Connor, K. Shin, et al. (incl. K. Sharma)"
+  venue: "Under review in OJAp"
+  arxiv: "2608.30943"
 
 - role: supporting
   year: 2026
